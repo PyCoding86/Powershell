@@ -13,11 +13,11 @@ function Get-SCSMWorkItemRelatedCI {
         PS C:\> Get-SCSMWorkItemRelatedCI -GUID "69c5dfc9-9acb-0afb-9210-190d3054901e"
 
     .NOTES
-        Francois-Xavier.Cat
-        @lazywinadmin
-        lazywinadmin.com
+        #.Cat
+        @#
+        #.com
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     PARAM (
         [parameter()]

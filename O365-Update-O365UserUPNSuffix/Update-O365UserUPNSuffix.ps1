@@ -47,12 +47,12 @@ function Update-O365UserUPNSuffix {
         -DomainController 'DC01.Contoso.com'
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
-        github.com/lazywinadmin
+        # Cat
+        #.com
+        @#
+        github.com/#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     [CmdletBinding()]

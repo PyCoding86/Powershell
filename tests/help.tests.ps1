@@ -56,7 +56,7 @@ Describe 'Comment based help' -Tag @('Help') {
                 }
 
                 It 'Contains Link' {
-                    $functionHelp.relatedlinks.navigationlink | Should match 'https://github.com/lazywinadmin'
+                    $functionHelp.relatedlinks.navigationlink | Should match 'https://github.com/#'
                 }
             }
             else {

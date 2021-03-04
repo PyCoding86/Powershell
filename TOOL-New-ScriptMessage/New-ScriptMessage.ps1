@@ -30,9 +30,9 @@ function New-ScriptMessage {
         etc...
 
     .EXAMPLE
-        New-ScriptMessage -Message "Francois-Xavier" -Block PROCESS -Verbose -FunctionScope 0
+        New-ScriptMessage -Message "#" -Block PROCESS -Verbose -FunctionScope 0
 
-        [2016/04/20 23:33:46:78][New-ScriptMessage][PROCESS] Francois-Xavier
+        [2016/04/20 23:33:46:78][New-ScriptMessage][PROCESS] #
 
     .EXAMPLE
         New-ScriptMessage -message "Connected"
@@ -48,12 +48,12 @@ function New-ScriptMessage {
         [2015/03/14 17:32:53:62][Get-Something] Connected
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
-        github.com/lazywinadmin
+        # Cat
+        #.com
+        @#
+        github.com/#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     [CmdletBinding()]

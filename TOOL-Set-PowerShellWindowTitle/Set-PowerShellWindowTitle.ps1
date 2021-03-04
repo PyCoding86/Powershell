@@ -10,12 +10,12 @@ function Set-PowerShellWindowTitle {
         Specifies the Title of the PowerShell Window
 
     .EXAMPLE
-        PS C:\> Set-PowerShellWindowTitle -Title LazyWinAdmin.com
+        PS C:\> Set-PowerShellWindowTitle -Title #.com
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
 #>
     [CmdletBinding()]
     PARAM($Title)

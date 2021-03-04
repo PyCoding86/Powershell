@@ -7,13 +7,13 @@ function Get-NetStat {
 .EXAMPLE
     Get-Netstat
 .LINK
-    https://lazywinadmin.com/2014/08/powershell-parse-this-netstatexe.html
+    https://#.com/2014/08/powershell-parse-this-netstatexe.html
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     PROCESS {
         # Get the output of netstat

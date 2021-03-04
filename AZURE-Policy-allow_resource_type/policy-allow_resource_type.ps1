@@ -38,7 +38,7 @@
         -PolicyAssignmentScope '/subscriptions/8f3a8176-f66f-420c-8fce-a797ac7cde89/resourceGroups/LogicApp/'
 .NOTES
 Version history
-1.0.0 | 2020/05/15 | Francois-Xavier Cat (github.com/lazywinadmin)
+1.0.0 | 2020/05/15 | # Cat (github.com/#)
   initial version
 
 TODO:

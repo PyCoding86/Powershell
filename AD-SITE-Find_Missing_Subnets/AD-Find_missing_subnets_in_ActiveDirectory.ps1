@@ -30,9 +30,9 @@
 
     .NOTES
         NAME:    TOOL-AD-SITE-Report_Missing_Subnets.ps1
-        AUTHOR:    Francois-Xavier CAT
+        AUTHOR:    # CAT
         DATE:    2011/10/11
-        EMAIL:    info@lazywinadmin.com
+        EMAIL:    info@#.com
 
         REQUIREMENTS:
         -A Task scheduler to execute the script every x weeks
@@ -65,7 +65,7 @@
             ADD HTMLReportPath Parameter, Just need to specify the folder. default file name will be: $ForestName-DateFormat-Report.html
             ADD Table CSS
     .link
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
 #requires -version 2.0

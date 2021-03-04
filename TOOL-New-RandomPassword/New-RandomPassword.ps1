@@ -35,12 +35,12 @@ function New-RandomPassword {
         mgZ/{y8}I@-t
         **W.)60kY4$V
 .NOTES
-    francois-xavier.cat
-    lazywinadmin.com
-    @lazywinadmin
-    github.com/lazywinadmin
+    #.cat
+    #.com
+    @#
+    github.com/#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     PARAM (
         [Int32]$Length = 12,

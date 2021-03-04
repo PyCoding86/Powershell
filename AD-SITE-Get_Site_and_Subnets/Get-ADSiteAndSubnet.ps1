@@ -17,10 +17,10 @@ function Get-ADSiteAndSubnet {
 
     .NOTES
         CHANGE HISTORY:
-            1.0 | 2014/02/03 | @lazywinadmin
+            1.0 | 2014/02/03 | @#
                 Initial Version
     .link
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM()

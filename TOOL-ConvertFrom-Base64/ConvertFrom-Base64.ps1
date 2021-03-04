@@ -13,12 +13,12 @@ function ConvertFrom-Base64 {
         ConvertFrom-Base64 -String $ImageBase64 |Out-File ImageTest.png
 
     .NOTES
-        Francois-Xavier Cat
-        @lazywinadmin
-        lazywinadmin.com
-        github.com/lazywinadmin
+        # Cat
+        @#
+        #.com
+        github.com/#
     .Link
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM (

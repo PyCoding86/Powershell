@@ -6,9 +6,9 @@ function Get-DistributionGroupMemberRecursive {
 .EXAMPLE
     Get-DistributionGroupMemberRecursive -Group TestDG  -Verbose
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 #>
     [CmdletBinding()]
     PARAM ($Group)

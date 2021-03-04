@@ -21,11 +21,11 @@ function Get-LocalGroup {
         This example shows how to list all the local groups on local computer.
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     PARAM

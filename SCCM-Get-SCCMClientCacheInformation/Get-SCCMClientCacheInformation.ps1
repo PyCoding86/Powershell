@@ -14,17 +14,17 @@ function Get-SCCMClientCacheInformation {
 
         This will get the client cache size on the computer Client01
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
-        github.com/lazywinadmin
+        # Cat
+        #.com
+        @#
+        github.com/#
 
-        1.0 | 2017/11/01 | Francois-Xavier Cat
+        1.0 | 2017/11/01 | # Cat
             Initial Version
-        1.1 | 2017/11/01 | Francois-Xavier Cat
+        1.1 | 2017/11/01 | # Cat
             Update Error handling and messages
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     PARAM(
         [string[]]$ComputerName = ".",

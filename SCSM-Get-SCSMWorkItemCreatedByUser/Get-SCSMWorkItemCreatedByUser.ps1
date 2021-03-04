@@ -22,11 +22,11 @@ function Get-SCSMWorkItemCreatedByUser {
         Get-SCSMWorkItemCreatedByUser -GUID 5bd5e783-c8a1-0217-9e19-f82823ef4f87
 
     .NOTES
-        Francois-Xavier Cat
-        @lazywinadmin
-        lazywinadmin.com
+        # Cat
+        @#
+        #.com
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'GUID')]

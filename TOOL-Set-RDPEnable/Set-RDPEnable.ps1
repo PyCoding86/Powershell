@@ -19,9 +19,9 @@ function Set-RDPEnable {
         PS C:\> Set-RDPEnable -ComputerName "DC01","DC02","DC03"
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
 #>
 
     [CmdletBinding(SupportsShouldProcess = $true)]

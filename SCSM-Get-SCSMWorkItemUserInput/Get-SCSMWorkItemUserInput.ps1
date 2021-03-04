@@ -13,7 +13,7 @@ function Get-SCSMWorkItemUserInput {
         Initial version from http://itblog.no/4462
         Output PSOBject instead of array
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     Param (

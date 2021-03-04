@@ -17,12 +17,12 @@ function Get-LogFast {
         MSI (s) (A8:14) [09:36:43:417]: Note: 1: 2205 2:  3: TypeLib
 
     .NOTES
-        Francois-Xavier cat
-        @lazywinadmin
-        lazywinadmin.com
-        github.com/lazywinadmin
+        # cat
+        @#
+        #.com
+        github.com/#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 
 #>
     [CmdletBinding()]

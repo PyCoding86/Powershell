@@ -15,12 +15,12 @@ function Get-NetFrameworkTypeAccelerator {
     Return the list of Type Accelerator available on your system
     This is a function alias created by [Alias()]
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
-    github.com/lazywinadmin
+    # Cat
+    #.com
+    @#
+    github.com/#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     [Alias('Get-Acceletrator')]
     PARAM ()

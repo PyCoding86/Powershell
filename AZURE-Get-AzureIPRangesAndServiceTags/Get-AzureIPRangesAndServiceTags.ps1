@@ -54,10 +54,10 @@ This will output the Json File
 
 .NOTES
 Version History
-1.0 | 2020/01/14 | Francois-Xavier Cat
+1.0 | 2020/01/14 | # Cat
     Initial version
 .LINK
-https://github.com/lazywinadmin/PowerShell
+https://github.com/#/PowerShell
 
 #>
 [CmdletBinding()]

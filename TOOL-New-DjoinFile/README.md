@@ -1,8 +1,8 @@
-[NewDjoinFile01]: https://github.com/lazywinadmin/PowerShell/blob/master/TOOL-New-DjoinFile/media/New-DjoinFile01.png
+[NewDjoinFile01]: https://github.com/#/PowerShell/blob/master/TOOL-New-DjoinFile/media/New-DjoinFile01.png
 New-DjoinFile
 ===================
 ## Related Article(s)
-[Blog article on lazywinadmin.com](http://www.lazywinadmin.com/2016/07/offline-domain-join-recreating-blob.html)
+[Blog article on #.com](http://www.#.com/2016/07/offline-domain-join-recreating-blob.html)
 
 ## Description
 

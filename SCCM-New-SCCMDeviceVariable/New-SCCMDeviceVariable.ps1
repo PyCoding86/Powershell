@@ -57,12 +57,12 @@ function New-SCCMDeviceVariable {
         New-SCCMDeviceVariable @MyParams
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
-        github.com/lazywinadmin
+        # Cat
+        #.com
+        @#
+        github.com/#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [cmdletbinding()]
     PARAM (

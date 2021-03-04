@@ -16,15 +16,15 @@ function Get-ISEShortCut {
 
     Will show technet page of ISE Shortcuts
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 
     VERSION HISTORY
     2015/01/10 Initial Version
         http://technet.microsoft.com/en-us/library/jj984298.aspx
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     PARAM($Key, $Name)
     BEGIN {

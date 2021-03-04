@@ -51,11 +51,11 @@ function Clean-MacAddress {
         System.String
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .Link
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [OutputType([String], ParameterSetName = "Upper")]
     [OutputType([String], ParameterSetName = "Lower")]

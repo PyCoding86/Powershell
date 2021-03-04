@@ -4,9 +4,9 @@
     .DESCRIPTION
         Profile File
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
 #>
 
 #########################
@@ -83,7 +83,7 @@ if (Test-Path $env:USERPROFILE\OneDrive) { $OneDriveRoot = "$env:USERPROFILE\One
 # This will change the prompt
 function prompt {
     #Get-location
-    Write-Output "PS [LazyWinAdmin.com]> "
+    Write-Output "PS [#.com]> "
 }
 
 # Get the current script directory

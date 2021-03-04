@@ -16,12 +16,12 @@ function Resolve-ShortURL {
     Resolve-ShortURL -ShortUrl http://go.microsoft.com/fwlink/?LinkId=280243
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
-    github.com/lazywinadmin
+    # Cat
+    #.com
+    @#
+    github.com/#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
 
     [CmdletBinding()]

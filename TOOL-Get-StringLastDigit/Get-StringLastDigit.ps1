@@ -7,24 +7,24 @@ function Get-StringLastDigit {
 .PARAMETER String
     Specifies the String to check
 .EXAMPLE
-    PS C:\> Get-StringLastDigit -String "Francois-Xavier.cat5"
+    PS C:\> Get-StringLastDigit -String "#.cat5"
 
     5
 .EXAMPLE
-    PS C:\> Get-StringLastDigit -String "Francois-Xavier.cat"
+    PS C:\> Get-StringLastDigit -String "#.cat"
 
     <no output>
 .EXAMPLE
-    PS C:\> Get-StringLastDigit -String "Francois-Xavier.cat" -Verbose
+    PS C:\> Get-StringLastDigit -String "#.cat" -Verbose
 
     <no output>
-    VERBOSE: The following string does not finish by a digit: Francois-Xavier.cat
+    VERBOSE: The following string does not finish by a digit: #.cat
 .NOTES
-    Francois-Xavier Cat
-    @lazywinadmin
-    lazywinadmin.com
+    # Cat
+    @#
+    #.com
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM($String)

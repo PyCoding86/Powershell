@@ -18,9 +18,9 @@ Function Get-AccountLockedOut {
     It might not retrieve the information very far in the past if the PDC logs are filling up very fast.
 
 .EXAMPLE
-    Get-AccountLockedOut -UserName "Francois-Xavier.cat" -StartTime (Get-Date).AddDays(-2)
+    Get-AccountLockedOut -UserName "#.cat" -StartTime (Get-Date).AddDays(-2)
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
 
     #Requires -Version 3.0

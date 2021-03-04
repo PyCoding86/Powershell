@@ -23,24 +23,24 @@ function Remove-StringLatinCharacter {
     Remove diacritics from multiple files
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
-    github.com/lazywinadmin
+    # Cat
+    #.com
+    @#
+    github.com/#
 
     BLOG ARTICLE
-        https://lazywinadmin.com/2015/05/powershell-remove-diacritics-accents.html
+        https://#.com/2015/05/powershell-remove-diacritics-accents.html
 
     VERSION HISTORY
-        1.0.0.0 | Francois-Xavier Cat
+        1.0.0.0 | # Cat
             Initial version Based on Marcin Krzanowic code
-        1.0.0.1 | Francois-Xavier Cat
+        1.0.0.1 | # Cat
             Added support for ValueFromPipeline
-        1.0.0.2 | Francois-Xavier Cat
+        1.0.0.2 | # Cat
             Add Support for multiple String
             Add Error Handling
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM (

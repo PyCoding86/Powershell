@@ -13,12 +13,12 @@ function Get-ImageInformation {
     PS C:\> Get-ImageInformation -FilePath c:\temp\image.png
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
-    github.com/lazywinadmin
+    # Cat
+    #.com
+    @#
+    github.com/#
 .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     PARAM (
         [System.String[]]$FilePath

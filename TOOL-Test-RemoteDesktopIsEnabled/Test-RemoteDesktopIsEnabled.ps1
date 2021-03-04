@@ -17,10 +17,10 @@ function Test-RemoteDesktopIsEnabled {
   Test if Remote Desktop is enabled on the remote machine SERVER01 and SERVER02
 
 .NOTES
-    Francois-Xavier Cat
-    @lazywinadmin
-    lazywinadmin.com
-    github.com/lazywinadmin
+    # Cat
+    @#
+    #.com
+    github.com/#
 #>
 
 

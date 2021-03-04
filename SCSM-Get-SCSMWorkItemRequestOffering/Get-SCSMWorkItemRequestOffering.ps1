@@ -20,11 +20,11 @@ function Get-SCSMWorkItemRequestOffering {
         Get-SCSMWorkItemRequestOffering -SMObject $SR,IR
 
     .NOTES
-        Francois-Xavier Cat
-        @lazywinadmin
-        lazywinadmin.com
+        # Cat
+        @#
+        #.com
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 
     #>
     PARAM (

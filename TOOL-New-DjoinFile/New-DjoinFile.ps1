@@ -20,15 +20,15 @@ function New-DjoinFile {
         New-DjoinFile -Blob $Blob -DestinationFile C:\temp\test.tmp
 
     .NOTES
-        Francois-Xavier.Cat
-        LazyWinAdmin.com
-        @lazywinadmin
-        github.com/lazywinadmin
+        #.Cat
+        #.com
+        @#
+        github.com/#
 
     .LINK
-        https://github.com/lazywinadmin/PowerShell/tree/master/TOOL-New-DjoinFile
+        https://github.com/#/PowerShell/tree/master/TOOL-New-DjoinFile
     .LINK
-        https://lazywinadmin.com/2016/07/offline-domain-join-copying-djoin.html
+        https://#.com/2016/07/offline-domain-join-copying-djoin.html
     .LINK
         https://msdn.microsoft.com/en-us/library/system.io.fileinfo(v=vs.110).aspx
     #>

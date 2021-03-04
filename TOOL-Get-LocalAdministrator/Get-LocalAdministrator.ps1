@@ -16,9 +16,9 @@ function Get-LocalAdministratorBuiltin {
         PS C:\> Get-LocalAdministratorBuiltin -ComputerName SERVER01
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
 
     #function to get the BUILTIN LocalAdministrator
     #http://blog.simonw.se/powershell-find-builtin-local-administrator-account/

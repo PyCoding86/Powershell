@@ -29,11 +29,11 @@ function Get-Uptime {
     PS C:\> Get-Uptime -CimSession $Session1,$session2,$session3
 
 .NOTES
-    Francois-Xavier Cat
-    @lazywinadmin
-    lazywinadmin.com
+    # Cat
+    @#
+    #.com
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM (
@@ -67,9 +67,9 @@ function Get-Uptime {
 .PARAMETER Message
     Specifies the message to show
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 #>
             PARAM ($Message)
             $DateFormat = Get-Date -Format 'yyyy/MM/dd-HH:mm:ss:ff'

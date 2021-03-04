@@ -25,19 +25,19 @@ Function Add-SCSMSRComment {
     Specifies if the switch is private
 
 .EXAMPLE
-    Add-SCSMSRComment -ServiceRequestObject $SR -Comment "Task Completed" -CommentType Analyst -EnteredBy 'Francois-Xavier Cat'
+    Add-SCSMSRComment -ServiceRequestObject $SR -Comment "Task Completed" -CommentType Analyst -EnteredBy '# Cat'
 
 .EXAMPLE
-    Add-SCSMSRComment -ServiceRequestObject $SR -Comment "Task Completed" -CommentType Analyst -EnteredBy 'Francois-Xavier Cat' -IsPrivate
+    Add-SCSMSRComment -ServiceRequestObject $SR -Comment "Task Completed" -CommentType Analyst -EnteredBy '# Cat' -IsPrivate
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 
     Script inspired from http://www.scsm.se/?p=1423 by Anders Asp
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM (

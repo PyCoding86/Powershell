@@ -25,12 +25,12 @@ function Get-ProcessForeignAddress {
     Show all the foreign address(es) for the process chrome and show only the ForeignAddress(es) once
 
 .NOTES
-    Author  : Francois-Xavier Cat
-    Website : lazywinadmin.com
-    Github  : github.com/lazywinadmin
-    Twitter : @lazywinadmin
+    Author  : # Cat
+    Website : #.com
+    Github  : github.com/#
+    Twitter : @#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     PARAM ($ProcessName)
     $netstat = netstat -no

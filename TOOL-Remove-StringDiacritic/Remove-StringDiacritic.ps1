@@ -19,10 +19,10 @@ function Remove-StringDiacritic {
     L'ete de Raphael
 
 .NOTES
-    Francois-Xavier Cat
-    @lazywinadmin
-    lazywinadmin.com
-    github.com/lazywinadmin
+    # Cat
+    @#
+    #.com
+    github.com/#
 #>
     [CMdletBinding()]
     PARAM

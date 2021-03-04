@@ -12,31 +12,31 @@ function Expand-ScriptAlias {
         Alias: FullName
 
     .EXAMPLE
-        "C:\LazyWinAdmin\testscript.ps1", "C:\LazyWinAdmin\testscript2.ps1" | Expand-ScriptAlias
+        "C:\#\testscript.ps1", "C:\#\testscript2.ps1" | Expand-ScriptAlias
 
     .EXAMPLE
-        gci C:\LazyWinAdmin -File | Expand-ScriptAlias
+        gci C:\# -File | Expand-ScriptAlias
 
     .EXAMPLE
-        Expand-ScriptAlias -Path "C:\LazyWinAdmin\testscript.ps1"
+        Expand-ScriptAlias -Path "C:\#\testscript.ps1"
 
     .EXAMPLE
-        "C:\LazyWinAdmin\testscript.ps1", "C:\LazyWinAdmin\testscript2.ps1" | Expand-ScriptAlias -Confirm
+        "C:\#\testscript.ps1", "C:\#\testscript2.ps1" | Expand-ScriptAlias -Confirm
 
     .EXAMPLE
-        "C:\LazyWinAdmin\testscript.ps1", "C:\LazyWinAdmin\testscript2.ps1" | Expand-ScriptAlias -WhatIf
+        "C:\#\testscript.ps1", "C:\#\testscript2.ps1" | Expand-ScriptAlias -WhatIf
 
-        What if: Performing the operation "Expand Alias: select to Select-Object (startoffset: 15)" on target "C:\LazyWinAdmin\testscript2.ps1".
-        What if: Performing the operation "Expand Alias: sort to Sort-Object (startoffset: 10)" on target "C:\LazyWinAdmin\testscript2.ps1".
-        What if: Performing the operation "Expand Alias: group to Group-Object (startoffset: 4)" on target "C:\LazyWinAdmin\testscript2.ps1".
-        What if: Performing the operation "Expand Alias: gci to Get-ChildItem (startoffset: 0)" on target "C:\LazyWinAdmin\testscript2.ps1".
+        What if: Performing the operation "Expand Alias: select to Select-Object (startoffset: 15)" on target "C:\#\testscript2.ps1".
+        What if: Performing the operation "Expand Alias: sort to Sort-Object (startoffset: 10)" on target "C:\#\testscript2.ps1".
+        What if: Performing the operation "Expand Alias: group to Group-Object (startoffset: 4)" on target "C:\#\testscript2.ps1".
+        What if: Performing the operation "Expand Alias: gci to Get-ChildItem (startoffset: 0)" on target "C:\#\testscript2.ps1".
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding(SupportsShouldProcess, ConfirmImpact = 'Low')]
     PARAM (

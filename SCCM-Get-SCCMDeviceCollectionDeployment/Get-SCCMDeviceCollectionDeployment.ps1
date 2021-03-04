@@ -30,14 +30,14 @@ function Get-SCCMDeviceCollectionDeployment {
         Get-SCCMDeviceCollectionDeployment -DeviceName MYCOMPUTER01 -Credential $cred -Purpose Required
 
     .NOTES
-        Francois-Xavier cat
-        lazywinadmin.com
-        @lazywinadmin
+        # cat
+        #.com
+        @#
 
         CHANGE HISTORY
-            1.0 | 2015/09/03 | Francois-Xavier Cat
+            1.0 | 2015/09/03 | # Cat
                 Initial Version
-            1.1 | 2017/09/15 | Francois-Xavier Cat
+            1.1 | 2017/09/15 | # Cat
                 Update Comment based help
                 Update Crendential parameter type
                 Update Verbose messages
@@ -46,7 +46,7 @@ function Get-SCCMDeviceCollectionDeployment {
         SMS_Collection: https://msdn.microsoft.com/en-us/library/hh948939.aspx
         SMS_DeploymentInfo: https://msdn.microsoft.com/en-us/library/hh948268.aspx
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM

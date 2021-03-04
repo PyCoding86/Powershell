@@ -18,7 +18,7 @@ This script will do the following steps:
 
     Send the output to an excel report
 .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 .NOTES
 
 # TODO
@@ -56,7 +56,7 @@ try{
         This leverate the token of the current session to query the Azure Management
         API and retrieves all the tenants information
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     Param()

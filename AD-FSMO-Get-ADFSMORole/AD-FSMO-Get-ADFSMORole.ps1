@@ -11,20 +11,20 @@ function Get-ADFSMORole {
 .EXAMPLE
     Get-ADFSMORole -Credential (Get-Credential -Credential "CONTOSO\SuperAdmin")
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
-    github.com/lazywinadmin
+    # Cat
+    #.com
+    @#
+    github.com/#
 
-    1.0 | 2016/00/00 | Francois-Xavier Cat
+    1.0 | 2016/00/00 | # Cat
         Initial Version
-    1.1 | 2017/11/01 | Francois-Xavier Cat
+    1.1 | 2017/11/01 | # Cat
         Update Error handling
         Update logic
         Remove warning messages
         Replace tabs with spaces
 .link
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM (

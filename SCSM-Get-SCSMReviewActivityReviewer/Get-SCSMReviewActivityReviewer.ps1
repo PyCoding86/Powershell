@@ -25,11 +25,11 @@ Get-SCSMReviewActivityReviewer -ActivityGUID '04ddd0a1-993a-13dc-68a8-c434270df5
 Get-SCSMReviewActivityReviewer -ActivityName 'RA1234'
 
 .NOTES
-Francois-Xavier Cat
-lazywinadmin.com
-@lazywinadmin
+# Cat
+#.com
+@#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Object')]

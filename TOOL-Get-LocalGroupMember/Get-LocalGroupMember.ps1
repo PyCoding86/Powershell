@@ -11,16 +11,16 @@ function Get-LocalGroupMember {
     .EXAMPLE
         Get-LocalGroupMember
     .NOTES
-        Francois-Xavier Cat
-        @lazywinadmin
-        lazywinadmin.com
+        # Cat
+        @#
+        #.com
 
         To Add:
             Credential param
             Resurce Local and AD using ADSI or ActiveDirectory Module
             OnlyUser param
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM (

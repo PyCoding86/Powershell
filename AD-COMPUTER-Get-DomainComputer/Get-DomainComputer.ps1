@@ -57,10 +57,10 @@
 
 .NOTES
     NAME:    FUNCT-AD-COMPUTER-Get-DomainComputer.ps1
-    AUTHOR:    Francois-Xavier CAT
+    AUTHOR:    # CAT
     DATE:    2013/10/26
-    WWW:    www.lazywinadmin.com
-    TWITTER: @lazywinadmin
+    WWW:    www.#.com
+    TWITTER: @#
 
     VERSION HISTORY:
     1.0 2013.10.26

@@ -23,13 +23,13 @@ function Get-SCSMWorkItemParent {
         Get-SCSMWorkItemParent -WorkItemObject $RunbookActivity
 
     .NOTES
-        Francois-Xavier.Cat
-        @lazywinadmin
-        lazywinadmin.com
+        #.Cat
+        @#
+        #.com
 
         1.0 Function based on the work from Prosum and Cireson consultants
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     PARAM (

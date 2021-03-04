@@ -21,12 +21,12 @@ function New-CimSmartSession {
     New-CimInstance -CimSession $Session -Class Win32_Bios
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     #Requires -Version 3.0
     [CmdletBinding()]

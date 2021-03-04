@@ -19,11 +19,11 @@ function Set-RDPDisable {
         PS C:\> Set-RDPDisable -ComputerName "DC01","DC02","DC03"
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding(SupportsShouldProcess = $true)]
     PARAM (

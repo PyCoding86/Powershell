@@ -36,7 +36,7 @@ function New-Password {
         Code based on a blog post of https://mjolinor.wordpress.com/2014/01/31/random-password-generator/
 
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM

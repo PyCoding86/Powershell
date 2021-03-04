@@ -37,7 +37,7 @@ Erase all existing rules and append the one specified in the CSV file
 .NOTES
 
 VERSION HISTORY
-1.0 | 2020/06/11 | Francois-Xavier Cat (lazywinadmin.com)
+1.0 | 2020/06/11 | # Cat (#.com)
     initial version
 #>
 [cmdletBinding()]

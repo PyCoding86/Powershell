@@ -7,7 +7,7 @@ function New-ADDomainJoin {
     This will create an object in active directory and output the blob needed to join the machine offline
 
     If needed, you can use the function New-DjoinFile to recreate the file consumed by djoin.exe
-    https://github.com/lazywinadmin/PowerShell/tree/master/TOOL-New-DjoinFile
+    https://github.com/#/PowerShell/tree/master/TOOL-New-DjoinFile
 .Parameter machinename
     Specify the machinename
 .Parameter domain
@@ -34,7 +34,7 @@ function New-ADDomainJoin {
 
 .Notes
     Version History
-        1.0 | 2019/01/08 | Francois-Xavier Cat
+        1.0 | 2019/01/08 | # Cat
             Initial version based on 'WinPENanoDomainJoin' https://gist.github.com/Ryan2065/79838b78643d2311d60cb6147e3b87bf
     Documentations
         Window  7/ Windows 2008 function https://docs.microsoft.com/en-us/windows/desktop/api/lmjoin/nf-lmjoin-netprovisioncomputeraccount
@@ -45,7 +45,7 @@ function New-ADDomainJoin {
         Add support for non dc specified
         Add support for non credential specified
 .link
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM(

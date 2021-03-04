@@ -21,7 +21,7 @@ function Get-AsciiReaction {
     and Matt Hodge function: https://github.com/MattHodge/MattHodgePowerShell/blob/master/Fun/Get-Ascii.ps1
 
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [cmdletbinding()]
     Param

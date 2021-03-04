@@ -28,12 +28,12 @@ function Disable-RemoteDesktop {
         PS C:\> Disable-RemoteDesktop -CimSession $Session1,$session2,$session3
 
     .NOTES
-        Francois-Xavier Cat
-        @lazywinadmin
-        lazywinadmin.com
-        github.com/lazywinadmin
+        # Cat
+        @#
+        #.com
+        github.com/#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     #Requires -RunAsAdministrator
     [CmdletBinding(DefaultParameterSetName = 'CimSession',
@@ -69,9 +69,9 @@ function Disable-RemoteDesktop {
 .PARAMETER Message
     Specifies the message to show
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 #>
             PARAM ($Message)
             $DateFormat = Get-Date -Format 'yyyy/MM/dd-HH:mm:ss:ff'

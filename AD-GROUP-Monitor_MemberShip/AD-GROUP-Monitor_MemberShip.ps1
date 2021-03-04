@@ -1,4 +1,4 @@
-# Script is now maintained on the following repository: https://github.com/lazywinadmin/Monitor-ADGroupMembership
+# Script is now maintained on the following repository: https://github.com/#/Monitor-ADGroupMembership
 
 <#
 .SYNOPSIS
@@ -113,10 +113,10 @@
 
 .NOTES
     NAME:    AD-GROUP-Monitor_MemberShip.ps1
-    AUTHOR:    Francois-Xavier Cat
-    EMAIL:    info@lazywinadmin.com
-    WWW:    www.lazywinadmin
-    Twitter:@lazywinadmin
+    AUTHOR:    # Cat
+    EMAIL:    info@#.com
+    WWW:    www.#
+    Twitter:@#
 
     REQUIREMENTS:
         -Read Permission in Active Directory on the monitored groups

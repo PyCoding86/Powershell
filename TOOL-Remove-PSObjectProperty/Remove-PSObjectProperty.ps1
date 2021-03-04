@@ -16,11 +16,11 @@ function Remove-PSObjectProperty {
     PS C:\> Remove-PSObjectProperty -PSObject $UserInfo -Property Info
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     PARAM (
         $PSObject,

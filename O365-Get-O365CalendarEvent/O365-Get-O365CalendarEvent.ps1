@@ -10,7 +10,7 @@ function Get-O365CalendarEvent {
 .PARAMETER EmailAddress
     Specifies the mailbox email address to query.
     Default is the current user
-    Example: info@lazywinadmin.com
+    Example: info@#.com
 
 .PARAMETER StartDateTime
     Specifies the Start Date Time
@@ -39,18 +39,18 @@ function Get-O365CalendarEvent {
     Get the calendar Events of the next coming week for the current user.
 
 .EXAMPLE
-    PS C:\> Get-O365CalendarEvent -EmailAddress info@lazywinadmin.com -Credential (Get-Credential) | Select-Object -Property Subject, StartTimeZone, Start, End, @{L="Attendees";E={$psitem.attendees.emailaddress | Select-Object -Property name -Unique|Sort}}
+    PS C:\> Get-O365CalendarEvent -EmailAddress info@#.com -Credential (Get-Credential) | Select-Object -Property Subject, StartTimeZone, Start, End, @{L="Attendees";E={$psitem.attendees.emailaddress | Select-Object -Property name -Unique|Sort}}
 
     Get the calendar Events Subject, StartTimeZone,Start, End, Attendees for the last 7 days
 
 .EXAMPLE
-    Get-O365CalendarEvent -EmailAddress info@lazywinadmin.com -Credential $cred -StartDateTime $((Get-Date).adddays(-50)) -PageResult 15
+    Get-O365CalendarEvent -EmailAddress info@#.com -Credential $cred -StartDateTime $((Get-Date).adddays(-50)) -PageResult 15
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
-    github.com/lazywinadmin
+    # Cat
+    #.com
+    @#
+    github.com/#
 
     # More about the Calendar operations
     https://msdn.microsoft.com/office/office365/api/calendar-rest-operations
@@ -59,16 +59,16 @@ function Get-O365CalendarEvent {
     https://msdn.microsoft.com/office/office365/APi/complex-types-for-mail-contacts-calendar#UseODataqueryparametersPageresults
 
     VERSION HISTORY
-        1.0 | 2015/06/00 | Francois-Xavier Cat (lazywinadmin.com)
+        1.0 | 2015/06/00 | # Cat (#.com)
             Initial version
         1.1 | 2016/06/21 | Stephane van Gulick - (PowerShellDistrict.com)
             Added Headers Property 'timeZone' to fit the display gap that could happen between an actual event an the current timeZone.
-        1.2 | 2017/04/02 | Francois-Xavier Cat (lazywinadmin.com)
+        1.2 | 2017/04/02 | # Cat (#.com)
             Add all the timezones in the ValidateSet of $TimeZone
             Add TRY/CATCH and Error handler
             Add some Verbose messages
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
 
     [CmdletBinding()]

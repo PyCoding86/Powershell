@@ -32,7 +32,7 @@ function Get-HelpMessage {
     .NOTES
     http://www.leeholmes.com/blog/2009/09/15/powershell-equivalent-of-net-helpmsg/
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     [Alias('HelpMsg')]

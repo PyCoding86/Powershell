@@ -13,7 +13,7 @@
     This leverate the token of the current session to query the Azure Management
     API and retrieves all the tenants information
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 
 #>
 [CmdletBinding()]

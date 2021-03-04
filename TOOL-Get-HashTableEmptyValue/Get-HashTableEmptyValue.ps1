@@ -9,11 +9,11 @@ Function Get-HashTableEmptyValue {
 .EXAMPLE
     Get-HashTableEmptyValue -HashTable $SplattingVariable
 .NOTES
-    Francois-Xavier Cat
-    @lazywinadmin
-    lazywinadmin.com
+    # Cat
+    @#
+    #.com
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     PARAM([System.Collections.Hashtable]$HashTable)
 

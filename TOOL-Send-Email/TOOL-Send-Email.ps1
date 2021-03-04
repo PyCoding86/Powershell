@@ -114,10 +114,10 @@ function Send-Email {
         fxcat@contoso.com and SomeoneElse@contoso.com
 
     .NOTES
-        Francois-Xavier Cat
-        fxcat@lazywinadmin.com
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        fxcat@#.com
+        #.com
+        @#
 
         VERSION HISTORY
         1.0 2014/12/25     Initial Version
@@ -129,7 +129,7 @@ function Send-Email {
         -Add more Help/Example
         -Add Support for classic Get-Credential
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     [CmdletBinding(DefaultParameterSetName = 'Main')]

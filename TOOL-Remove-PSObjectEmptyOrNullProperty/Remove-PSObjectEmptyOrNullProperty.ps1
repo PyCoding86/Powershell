@@ -13,11 +13,11 @@ function Remove-PSObjectEmptyOrNullProperty {
         PS C:\> Remove-PSObjectEmptyOrNullProperty -PSObject $UserInfo
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     PARAM (
         $PSObject)

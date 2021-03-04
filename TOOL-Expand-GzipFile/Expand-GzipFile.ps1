@@ -6,21 +6,21 @@ Function Expand-GZipFile {
     Unzip a gz file
 .Notes
     Change History
-    1.0 | 2019/03/22 | francois-xavier cat (@lazywinadmin)
+    1.0 | 2019/03/22 | # cat (@#)
         based on https://social.technet.microsoft.com/Forums/windowsserver/en-US/5aa53fef-5229-4313-a035-8b3a38ab93f5/unzip-gz-files-using-powershell?forum=winserverpowershell
         add comment based help, error handling, missing parameters
         rename variables
 .Example
-    Expand-GZipFile -LiteralPath C:\tmp\lazywinadmin-2019.xml.gz -outfile C:\tmp\lazywinadmin-2019.xml
+    Expand-GZipFile -LiteralPath C:\tmp\#-2019.xml.gz -outfile C:\tmp\#-2019.xml
 
-    Will expand the content of C:\tmp\lazywinadmin-2019.xml.gz to C:\tmp\lazywinadmin-2019.xml
+    Will expand the content of C:\tmp\#-2019.xml.gz to C:\tmp\#-2019.xml
 
 .Example
-    Expand-GZipFile -LiteralPath C:\tmp\lazywinadmin-2019.xml.gz
+    Expand-GZipFile -LiteralPath C:\tmp\#-2019.xml.gz
 
-    Will expand the content of C:\tmp\lazywinadmin-2019.xml.gz to C:\tmp\lazywinadmin-2019.xml
+    Will expand the content of C:\tmp\#-2019.xml.gz to C:\tmp\#-2019.xml
 .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     Param(

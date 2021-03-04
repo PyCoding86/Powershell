@@ -16,12 +16,12 @@ Function Get-Something {
     Get-Something -ComputerName $value1 -Credential $value2
 
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.github.io
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.github.io
+    #.com
+    @#
 
-    1.0 | 2016/00/00 | Francois-Xavier Cat
+    1.0 | 2016/00/00 | # Cat
         Initial Version
 #>
     [CmdletBinding()]

@@ -14,11 +14,11 @@
 .PARAMETER EmailSMTPServer
     Specifies the SMTP Server to use
 .EXAMPLE
-    .\AD-USER-Report_Expiring_Users.ps1 -days 5 -EmailFrom "ScriptBox@lazywinadmin.com" -EmailSMTPServer smtp.lazywinadmin.com -EmailTo fxcat@lazywinadmin.com
+    .\AD-USER-Report_Expiring_Users.ps1 -days 5 -EmailFrom "ScriptBox@#.com" -EmailSMTPServer smtp.#.com -EmailTo fxcat@#.com
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 
     VERSION HISTORY
     1.0 2015/02/03    Initial Version
@@ -66,10 +66,10 @@ BEGIN {
             -Subject "Test Email" `
             -Body "Test Email"
     .NOTES
-        Francois-Xavier Cat
-        fxcat@lazywinadmin.com
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        fxcat@#.com
+        #.com
+        @#
 
         VERSION HISTORY
         1.0 2014/12/25     Initial Version

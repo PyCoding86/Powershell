@@ -17,7 +17,7 @@ Function Add-SCSMServiceRequestComment {
     .EXAMPLE
         Add-SCSMServiceRequestComment -SRObject $SR -Comment "This is a Comment" -EnteredBy 'FX'
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     param (

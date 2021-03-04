@@ -19,9 +19,9 @@ function Set-RemoteDesktop {
         PS C:\> Set-RemoteDesktop -ComputerName "DC01","DC02","DC03" -enable $false
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
 #>
 
     [CmdletBinding()]

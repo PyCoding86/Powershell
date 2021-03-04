@@ -22,11 +22,11 @@ function Get-SCSMServiceRequestComment {
         Get-SCSMServiceRequestComment -GUID 221dbd07-b480-ee33-fc25-6077406e83ad
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     PARAM

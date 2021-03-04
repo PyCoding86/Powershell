@@ -16,11 +16,11 @@ function Connect-Office365 {
     This will prompt for your credentials and connect to the Office365 services.
     Additionally you will see verbose messages on the screen to follow what is happening in the background
 .NOTES
-    Francois-Xavier Cat
-    lazywinadmin.com
-    @lazywinadmin
+    # Cat
+    #.com
+    @#
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM (

@@ -9,7 +9,7 @@ Function Get-SCSMUserManager {
     .EXAMPLE
         Get-SCSMUserManager -UserID $UserID
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     Param (

@@ -11,20 +11,20 @@ function Get-ScriptAlias {
         Specifies the path of the script
 
     .EXAMPLE
-        Get-ScriptAlias -Path "C:\LazyWinAdmin\testscript.ps1"
+        Get-ScriptAlias -Path "C:\#\testscript.ps1"
 
     .EXAMPLE
-        "C:\LazyWinAdmin\testscript.ps1" | Get-ScriptAlias
+        "C:\#\testscript.ps1" | Get-ScriptAlias
 
     .EXAMPLE
-        gci C:\LazyWinAdmin -file | Get-ScriptAlias
+        gci C:\# -file | Get-ScriptAlias
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM

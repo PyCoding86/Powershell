@@ -7,7 +7,7 @@ function Get-ScriptDirectory {
 .EXAMPLE
     Get-ScriptDirectory
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 #>
     if ($null -eq $hostinvocation) {
         Split-Path -Path $hostinvocation.MyCommand.path

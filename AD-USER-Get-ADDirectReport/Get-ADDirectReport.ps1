@@ -11,11 +11,11 @@ function Get-ADDirectReports {
         users reporting to the specify account (Identity).
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
 
-        Blog post: https://lazywinadmin.com/2014/10/powershell-who-reports-to-whom-active.html
+        Blog post: https://#.com/2014/10/powershell-who-reports-to-whom-active.html
 
         VERSION HISTORY
         1.0 2014/10/05 Initial Version
@@ -46,7 +46,7 @@ test_managerA       test_managerA       test_managerA@la... test_director
 test_userA2         test_userA2         test_userA2@lazy... test_managerA
 test_userA1         test_userA1         test_userA1@lazy... test_managerA
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     PARAM (

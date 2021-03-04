@@ -18,15 +18,15 @@ function Get-ADSiteInventory {
         PSObject
 
     .NOTES
-        AUTHOR    : Francois-Xavier Cat
+        AUTHOR    : # Cat
         DATE    : 2014/02/02
         VERSION HISTORY    :
-            1.0 | 2014/02/02 | Francois-Xavier Cat
+            1.0 | 2014/02/02 | # Cat
                 Initial Version
-            1.1 | 2014/02/02 | Francois-Xavier Cat
+            1.1 | 2014/02/02 | # Cat
                 Update some verbose messages
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 
 #>
     [CmdletBinding()]

@@ -25,18 +25,18 @@ function Get-ADSITokenGroup {
 
         GroupName            Count SamAccountName
         ---------            ----- --------------
-        lazywinadmin\MTL_GroupB     2 TestUser
-        lazywinadmin\MTL_GroupA     2 TestUser
-        lazywinadmin\MTL_GroupC     2 TestUser
-        lazywinadmin\MTL_GroupD     2 TestUser
-        lazywinadmin\MTL-GroupE     1 TestUser
+        #\MTL_GroupB     2 TestUser
+        #\MTL_GroupA     2 TestUser
+        #\MTL_GroupC     2 TestUser
+        #\MTL_GroupD     2 TestUser
+        #\MTL-GroupE     1 TestUser
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .link
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
     #>
     [CmdletBinding()]
     param

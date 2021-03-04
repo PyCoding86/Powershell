@@ -32,19 +32,19 @@ Function Add-ADSubnet {
 
     .NOTES
         NAME:    FUNCT-AD-SITE-Add-ADSubnet_using_ADSI.ps1
-        AUTHOR:    Francois-Xavier CAT
+        AUTHOR:    # CAT
         DATE:    2013/11/07
-        EMAIL:    info@lazywinadmin.com
-        WWW:    lazywinadmin.com
-        TWITTER:@lazywinadmin
+        EMAIL:    info@#.com
+        WWW:    #.com
+        TWITTER:@#
 
-        https://lazywinadmin.com/2013/11/powershell-add-ad-site-subnet.html
+        https://#.com/2013/11/powershell-add-ad-site-subnet.html
 
         VERSION HISTORY:
         1.0 2013.11.07
             Initial Version
     .link
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 
 #>
     [CmdletBinding()]

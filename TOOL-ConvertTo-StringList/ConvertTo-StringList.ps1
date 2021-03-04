@@ -34,14 +34,14 @@ function ConvertTo-StringList {
         Computer1
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
 
         I used this function in System Center Orchestrator (SCORCH).
         This is sometime easier to pass data between activities
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     [CmdletBinding()]

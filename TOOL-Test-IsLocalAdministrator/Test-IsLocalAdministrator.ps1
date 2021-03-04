@@ -9,10 +9,10 @@ function Test-IsLocalAdministrator {
 
     True
 .NOTES
-    Francois-Xavier Cat
-    @lazywinadmin
-    lazywinadmin.com
-    github.com/lazywinadmin
+    # Cat
+    @#
+    #.com
+    github.com/#
 #>
     [CmdletBinding()]
     PARAM()

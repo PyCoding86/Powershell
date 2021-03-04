@@ -19,7 +19,7 @@ function Get-ParentGroup {
 
         This will find duplicate
     .link
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 
 #>
     [CmdletBinding()]

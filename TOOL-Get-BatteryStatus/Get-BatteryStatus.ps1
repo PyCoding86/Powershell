@@ -13,7 +13,7 @@ function Get-BatteryStatus {
         http://www.powershellmagazine.com/2012/10/18/pstip-get-system-power-information/
 
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     PARAM()
     try {

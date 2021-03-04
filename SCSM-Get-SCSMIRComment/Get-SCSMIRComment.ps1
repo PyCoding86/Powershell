@@ -13,11 +13,11 @@ function Get-SCSMIRComment {
         PS C:\> Get-SCSMIRComment -Incident (get-scsmincident -ID 'IR55444')
 
     .NOTES
-        Francois-Xavier Cat
-        lazywinadmin.com
-        @lazywinadmin
+        # Cat
+        #.com
+        @#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
     [CmdletBinding()]
     PARAM

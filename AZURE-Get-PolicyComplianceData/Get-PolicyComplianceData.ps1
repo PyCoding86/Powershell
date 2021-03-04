@@ -5,7 +5,7 @@
 
 .GUID f2d5adaf-ed37-4dcc-96d5-2ac72b770cf8
 
-.AUTHOR Francois-Xavier Cat
+.AUTHOR # Cat
 
 .COMPANYNAME
 
@@ -16,7 +16,7 @@
 .LICENSEURI
 
 .PROJECTURI
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 
 .ICONURI
 
@@ -51,7 +51,7 @@
     Get-PolicyComplianceData.ps1 -ManagementGroupName <id> -AssignmentID <id>
 
 .LINK
-    https://github.com/lazywinadmin/PowerShell
+    https://github.com/#/PowerShell
 
 #>
 [CmdletBinding()]

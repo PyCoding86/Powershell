@@ -13,17 +13,17 @@ function Get-ADGPOReplication {
     .EXAMPLE
         Get-ADGPOReplication -All
     .NOTES
-        Francois-Xavier Cat
-        @lazywinadmin
-        lazywinadmin.com
+        # Cat
+        @#
+        #.com
 
         VERSION HISTORY
-        1.0 | 2014.09.22 | Francois-Xavier Cat
+        1.0 | 2014.09.22 | # Cat
             Initial version
             Adding some more Error Handling
             Fix some typo
     .link
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
     #>
     #requires -version 3
     [CmdletBinding()]

@@ -13,12 +13,12 @@ function ConvertTo-Base64 {
         ConvertTo-Base64 -Path "C:\images\PowerShellLogo.png"
 
     .NOTES
-        Francois-Xavier Cat
-        @lazywinadmin
-        lazywinadmin.com
-        github.com/lazywinadmin
+        # Cat
+        @#
+        #.com
+        github.com/#
     .LINK
-        https://github.com/lazywinadmin/PowerShell
+        https://github.com/#/PowerShell
 #>
 
     [CmdletBinding()]

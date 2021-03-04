@@ -112,8 +112,8 @@ Function Get-VMhostHbaInfo {
     PSObject
 
 .NOTES
-    Twitter: @lazywinadmin
-    WWW: lazywinadmin.com
+    Twitter: @#
+    WWW: #.com
 
     VERSION HISTORY
     1.0 Original version of this script is from vmdude.fr (http://www.vmdude.fr/en/scripts-en/hba-firmware-version/)

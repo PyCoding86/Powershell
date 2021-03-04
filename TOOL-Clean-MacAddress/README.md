@@ -1,4 +1,4 @@
-[CleanMacaddress01]: https://github.com/lazywinadmin/PowerShell/blob/master/TOOL-Clean-MacAddress/Clean-MacAddress01.png
+[CleanMacaddress01]: https://github.com/#/PowerShell/blob/master/TOOL-Clean-MacAddress/Clean-MacAddress01.png
 # Clean-MacAddress
 This function is used to clean up a Mac Address string.
 
